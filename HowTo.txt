@@ -1,0 +1,13 @@
+Created 11/15/2024 by Pv
+
+We know that we need to create a package main and import fmt in golang as starting. then, we gonna make some variable (name) with integer type data, this will going to be the place where the input gonna be stored. Don't forget to make an input for your (name) variable.
+
+the looping is just to search if there is a possible number that if the number get %(modulus), the result is zero, if there is no number then the output will not show it in "If statement", while if the number is true then the for loop will show the number that can be modulus and have a result of 0.
+
+the fmt.Print((name), " ") is to show the output, while the " " is to make a space for the answer. Try it yourself!!!
+
+
+
+
+Best of luck yall!!!
+Pvsudbd
